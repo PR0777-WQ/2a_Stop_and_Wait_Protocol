@@ -1,4 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
+NAME:G NITIN KARTHIKEYAN
+ADMISSION NUMBER:212224040227
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
